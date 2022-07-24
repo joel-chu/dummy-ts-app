@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dummy-ts-lib: github:joel-chu/dummy-ts-lib
+
+dependencies:
+  dummy-ts-lib: github.com/joel-chu/dummy-ts-lib/08a2f40ef6da0fb97f0acaa3cf46a6629779e3b0
+
+packages:
+
+  github.com/joel-chu/dummy-ts-lib/08a2f40ef6da0fb97f0acaa3cf46a6629779e3b0:
+    resolution: {tarball: https://codeload.github.com/joel-chu/dummy-ts-lib/tar.gz/08a2f40ef6da0fb97f0acaa3cf46a6629779e3b0}
+    name: dummy-ts-lib
+    version: 1.0.0
+    dev: false
